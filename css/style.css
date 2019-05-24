@@ -11,11 +11,6 @@ body {
     font-family: Palatino, Arial, Helvetica, sans-serif;
 }
 
-#score {
-    background-color: rgba(red, green, blue, 50);
-    color: chocolate;
-}
-
 canvas {
     margin-top: -50px;
     margin-left: auto;
